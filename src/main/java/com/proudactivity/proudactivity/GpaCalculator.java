@@ -7,6 +7,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+/* GpaCalculator Activity is still under development. Mainly it will be for university 
+gpa calculations but it is not limited with it.
+*/
+
 public class GpaCalculator extends AppCompatActivity {
 
     private Button returnMainPageButton;
